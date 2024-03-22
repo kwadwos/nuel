@@ -352,7 +352,7 @@ ul{
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
     right: 20px;
-    bottom: px;
+    bottom: 5px;
  }
 /*=================== Notes ====================================================*/
  .home-img::before{
