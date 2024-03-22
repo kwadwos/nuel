@@ -1,7 +1,7 @@
 /*============================typing animation=================================*/
 var typed = new Typed(".typing",
 {
-    strings:["web designer","data analyst","computing teacher","researcher","involved in impact monitoring"],
+    strings:["web designer","data analyst","computing teacher","researcher"],
     typeSpeed:90,
     backSpeed:50,
     loop:true
